@@ -1,0 +1,3 @@
+﻿  oop3dz.cpp
+E:\KOD\oop3dz\oop3dz\oop3dz.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  oop3dz.vcxproj -> E:\KOD\oop3dz\x64\Debug\oop3dz.exe
